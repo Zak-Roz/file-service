@@ -1,0 +1,11 @@
+{
+    "USER_NOT_FOUND": "User not found",
+    "FILE_NOT_FOUND": "File not found",
+    "FOLDER_NOT_FOUND": "Folder not found",
+    "FOLDER_ALREADY_EXIST": "Folder already exist",
+    "TOKEN_EXPIRED": "Token has already expired",
+    "TOKEN_INVALID": "Token is invalid",
+    "ROOT_FOLDER_NOT_FOUND": "Root folder not found",
+    "WRONG_CREDENTIALS": "Wrong credentials",
+    "ERROR_STREAMING": "Error while streaming file"
+}
